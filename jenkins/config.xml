@@ -13,7 +13,7 @@
   <keepDependencies>false</keepDependencies>
   <properties>
     <com.coravy.hudson.plugins.github.GithubProjectProperty plugin="github@1.38.0">
-      <projectUrl>https://github.com/Pavlo-Vulchak/PRIKM.git/</projectUrl>
+      <projectUrl>https://github.com/Mykhailo-lakus/PRIKM.git/</projectUrl>
       <displayName></displayName>
     </com.coravy.hudson.plugins.github.GithubProjectProperty>
     <org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
@@ -25,7 +25,7 @@
       <configVersion>2</configVersion>
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>
-          <url>https://github.com/Pavlo-Vulchak/PRIKM.git</url>
+          <url>https://github.com/Mykhailo-lakus/PRIKM.git</url>
         </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
       <branches>
